@@ -232,6 +232,7 @@ class MyConvertedCode extends TerraformStack {
   <li><code>lightsail</code></li>
   <li><code>location</code> (or <code>locationservice</code>)</li>
   <li><code>logs</code> (or <code>cloudwatchlog</code> or <code>cloudwatchlogs</code>)</li>
+  <li><code>lookoutmetrics</code></li>
   <li><code>macie2</code></li>
   <li><code>mediaconnect</code></li>
   <li><code>mediaconvert</code></li>
@@ -254,6 +255,7 @@ class MyConvertedCode extends TerraformStack {
   <li><code>outposts</code></li>
   <li><code>pinpoint</code></li>
   <li><code>pipes</code></li>
+  <li><code>polly</code></li>
   <li><code>pricing</code></li>
   <li><code>qldb</code></li>
   <li><code>quicksight</code></li>
@@ -421,4 +423,4 @@ class MyConvertedCode extends TerraformStack {
 
 ```
 
-<!-- cache-key: cdktf-0.19.0 input-b2b6c6c9d15a70961ae7496610c00d3015e62cc972020a5ff6ea81639e655cd8 -->
+<!-- cache-key: cdktf-0.19.0 input-d4441c8a9652859f122db02224ea7d2aec78d5d9a2bcef4b316ba04a8e9469d9 -->
